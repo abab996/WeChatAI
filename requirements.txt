@@ -1,0 +1,4 @@
+wxauto
+pyautogui
+pyperclip
+openai
